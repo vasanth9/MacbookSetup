@@ -11,7 +11,7 @@
 7. Iterm2: brew install --cask iterm2
 8. Oh My Zsh: sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 9. Alfred: brew install --cask alfred
-10: Notion: brew install --cask notion
-11: Figma: brew install --cask figma
+10. Notion: brew install --cask notion
+11. Figma: brew install --cask figma
 
 
