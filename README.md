@@ -14,3 +14,4 @@
 10: Notion: brew install --cask notion
 11: Figma: brew install --cask figma
 
+
