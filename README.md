@@ -15,4 +15,6 @@
 11. Figma: brew install --cask figma
 12. Rust: curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 13. VSCode: brew install --cask visual-studio-code
+14. Go: brew install go
+
 
